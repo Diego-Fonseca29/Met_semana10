@@ -1,0 +1,7 @@
+C:\Users\fazur\source\repos\25-10-24\25-10-24\bin\Debug\25-10-24.exe.config
+C:\Users\fazur\source\repos\25-10-24\25-10-24\bin\Debug\25-10-24.exe
+C:\Users\fazur\source\repos\25-10-24\25-10-24\bin\Debug\25-10-24.pdb
+C:\Users\fazur\source\repos\25-10-24\25-10-24\obj\Debug\25-10-24.csproj.AssemblyReference.cache
+C:\Users\fazur\source\repos\25-10-24\25-10-24\obj\Debug\25-10-24.csproj.CoreCompileInputs.cache
+C:\Users\fazur\source\repos\25-10-24\25-10-24\obj\Debug\25-10-24.exe
+C:\Users\fazur\source\repos\25-10-24\25-10-24\obj\Debug\25-10-24.pdb
