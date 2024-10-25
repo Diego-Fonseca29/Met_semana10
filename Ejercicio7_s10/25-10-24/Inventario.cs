@@ -20,20 +20,6 @@ namespace _25_10_24
             Precio = precio;
         }
     }
-    public class EstadisticasVentas
-    {
-        public int TotalVentas;
-        public int VentaMasAlta;
-        public int VentaMasBaja;
-
-        public EstadisticasVentas(int totalVentas, int ventaMasAlta, int ventaMasBaja)
-        {
-            TotalVentas = totalVentas;
-            VentaMasAlta = ventaMasAlta;
-            VentaMasBaja = ventaMasBaja;
-        }
-    }
-
 
     internal class Inventario
     {
