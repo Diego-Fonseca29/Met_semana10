@@ -25,23 +25,30 @@ namespace _25_10_24
                 switch (Console.ReadLine())
                 {
                     case "1":
-                        Console.Clear();
-                        // Agregar una venta
                         Console.Write("Ingrese el ID del producto: ");
                         int productId = int.Parse(Console.ReadLine());
                         Console.Write("Ingrese la cantidad: ");
                         int cantidad = int.Parse(Console.ReadLine());
-                        Console.Write("Ingrese el precio (en centavos): ");
+                        Console.Write("Ingrese el precio: ");
                         int precio = int.Parse(Console.ReadLine());
 
-                        Venta nuevaVenta = new Venta
+                        // Validar que cantidad y precio sean positivos
+                        if (cantidad <= 0 || precio <= 0)
                         {
-                            ProductID = productId,
-                            Cantidad = cantidad,
-                            Precio = precio
-                        };
+                            Console.WriteLine("La cantidad y el precio deben ser números positivos. Intente nuevamente.");
+                            continue;
+                        }
+                        else
+                        {
+                            Venta nuevaVenta = new Venta
+                            {
+                                ProductID = productId,
+                                Cantidad = cantidad,
+                                Precio = precio
+                            };
 
-                        registro.AgregarVenta(nuevaVenta);
+                            registro.AgregarVenta(nuevaVenta);
+                        }
                         break;
 
                     case "2":

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\fazur\\source\\repos\\25-10-24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CF32D1F-7022-4A0F-B166-417F67A25689}|25-10-24\\25-10-24.csproj|C:\\Users\\fazur\\source\\repos\\25-10-24\\25-10-24\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CF32D1F-7022-4A0F-B166-417F67A25689}|25-10-24\\25-10-24.csproj|solutionrelative:25-10-24\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6CF32D1F-7022-4A0F-B166-417F67A25689}|25-10-24\\25-10-24.csproj|c:\\users\\fazur\\source\\repos\\25-10-24\\25-10-24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CF32D1F-7022-4A0F-B166-417F67A25689}|25-10-24\\25-10-24.csproj|solutionrelative:25-10-24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF32D1F-7022-4A0F-B166-417F67A25689}|25-10-24\\25-10-24.csproj|C:\\Users\\fazur\\source\\repos\\25-10-24\\25-10-24\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF32D1F-7022-4A0F-B166-417F67A25689}|25-10-24\\25-10-24.csproj|solutionrelative:25-10-24\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Inventario.cs",
               "DocumentMoniker": "C:\\Users\\fazur\\source\\repos\\25-10-24\\25-10-24\\Inventario.cs",
               "RelativeDocumentMoniker": "25-10-24\\Inventario.cs",
               "ToolTip": "C:\\Users\\fazur\\source\\repos\\25-10-24\\25-10-24\\Inventario.cs",
               "RelativeToolTip": "25-10-24\\Inventario.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T02:17:55.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fazur\\source\\repos\\25-10-24\\25-10-24\\Program.cs",
               "RelativeDocumentMoniker": "25-10-24\\Program.cs",
               "ToolTip": "C:\\Users\\fazur\\source\\repos\\25-10-24\\25-10-24\\Program.cs",
               "RelativeToolTip": "25-10-24\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T02:17:33.025Z",
               "EditorCaption": ""
