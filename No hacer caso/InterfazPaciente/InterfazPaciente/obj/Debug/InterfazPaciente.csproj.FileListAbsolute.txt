@@ -1,0 +1,11 @@
+C:\Users\labc201\Desktop\DEstructurada\InterfazPaciente\InterfazPaciente\bin\Debug\InterfazPaciente.exe.config
+C:\Users\labc201\Desktop\DEstructurada\InterfazPaciente\InterfazPaciente\bin\Debug\InterfazPaciente.exe
+C:\Users\labc201\Desktop\DEstructurada\InterfazPaciente\InterfazPaciente\bin\Debug\InterfazPaciente.pdb
+C:\Users\labc201\Desktop\DEstructurada\InterfazPaciente\InterfazPaciente\obj\Debug\InterfazPaciente.csproj.AssemblyReference.cache
+C:\Users\labc201\Desktop\DEstructurada\InterfazPaciente\InterfazPaciente\obj\Debug\InterfazPaciente.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc201\Desktop\DEstructurada\InterfazPaciente\InterfazPaciente\obj\Debug\InterfazPaciente.Form1.resources
+C:\Users\labc201\Desktop\DEstructurada\InterfazPaciente\InterfazPaciente\obj\Debug\InterfazPaciente.Properties.Resources.resources
+C:\Users\labc201\Desktop\DEstructurada\InterfazPaciente\InterfazPaciente\obj\Debug\InterfazPaciente.csproj.GenerateResource.cache
+C:\Users\labc201\Desktop\DEstructurada\InterfazPaciente\InterfazPaciente\obj\Debug\InterfazPaciente.csproj.CoreCompileInputs.cache
+C:\Users\labc201\Desktop\DEstructurada\InterfazPaciente\InterfazPaciente\obj\Debug\InterfazPaciente.exe
+C:\Users\labc201\Desktop\DEstructurada\InterfazPaciente\InterfazPaciente\obj\Debug\InterfazPaciente.pdb
